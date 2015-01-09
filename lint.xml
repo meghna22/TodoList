@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ButtonStyle" severity="ignore">
+        <ignore path="res/layout/createtodo.xml" />
+    </issue>
+    <issue id="ObsoleteLayoutParam">
+        <ignore path="res/layout/activity_main.xml" />
+    </issue>
+    <issue id="OldTargetApi" severity="ignore" />
+    <issue id="Typos" severity="ignore" />
+</lint>
